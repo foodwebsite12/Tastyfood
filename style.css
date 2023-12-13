@@ -218,7 +218,9 @@ nav .mainMenu .closeMenu,
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: url('image/bulkfood.jpg');
+    background-image: url('image/Clients3.jpg');
+    background-position: center;
+    background-size: cover;
     padding-top: 135px;
     margin-top: 87px;
     box-shadow: 5px 5px 10px 5px #0000008f;
